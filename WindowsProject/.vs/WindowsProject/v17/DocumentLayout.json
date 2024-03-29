@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "L:\\System programming\\11\\WindowsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BACCABD-17C7-4B33-BD77-31BD9237FC52}|WindowsProject.vcxproj|L:\\System programming\\11\\WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BACCABD-17C7-4B33-BD77-31BD9237FC52}|WindowsProject.vcxproj|solutionrelative:WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsProject.cpp",
+              "DocumentMoniker": "L:\\System programming\\11\\WindowsProject\\WindowsProject.cpp",
+              "RelativeDocumentMoniker": "WindowsProject.cpp",
+              "ToolTip": "L:\\System programming\\11\\WindowsProject\\WindowsProject.cpp",
+              "RelativeToolTip": "WindowsProject.cpp",
+              "ViewState": "AQIAALwAAAAAAAAAAAAlwMsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-23T05:46:45.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
